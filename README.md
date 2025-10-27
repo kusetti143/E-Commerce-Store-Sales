@@ -2,8 +2,6 @@
 
 A comprehensive Power BI dashboard providing insights into an e-commerce store's sales performance, analyzing data across multiple dimensions including products, customers, payment methods, and geographic locations.
 
-![Dashboard Preview](Sales%20Report.png)
-
 ## 📊 Overview
 
 This Power BI dashboard delivers real-time insights into e-commerce sales data, helping stakeholders make data-driven decisions. The dashboard features interactive visualizations that analyze sales patterns, customer behavior, and business performance across various dimensions.
@@ -104,7 +102,7 @@ Contains product and transaction details:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/E-Commerce-Store-Sales-Report.git
+git clone https://github.com/kusetti143/E-Commerce-Store-Sales
 ```
 
 2. Open `Sales Dashboard.pbix` in Power BI Desktop
@@ -141,6 +139,7 @@ The dashboard is organized as follows:
 - Dashboard uses sample e-commerce data for demonstration
 - Filters update all visuals dynamically
 - Data can be refreshed by updating the source CSV files
+
 
 
 
