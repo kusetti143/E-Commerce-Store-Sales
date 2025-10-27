@@ -107,7 +107,7 @@ Contains product and transaction details:
 git clone https://github.com/yourusername/E-Commerce-Store-Sales-Report.git
 ```
 
-2. Open `Sales Report.pbix` in Power BI Desktop
+2. Open `Sales Dashboard.pbix` in Power BI Desktop
 
 3. The dashboard will load with pre-configured visualizations and data connections
 
@@ -141,6 +141,7 @@ The dashboard is organized as follows:
 - Dashboard uses sample e-commerce data for demonstration
 - Filters update all visuals dynamically
 - Data can be refreshed by updating the source CSV files
+
 
 
 
